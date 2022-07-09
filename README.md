@@ -1,16 +1,30 @@
-### Hi there 👋
+Hi, 
 
-<!--
-**JBH105/JBH105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Jaydeep Bhayani.
 
-Here are some ideas to get you started:
+welcome to you in my profile visiting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hope you will like it😁
+
+I am a full-stack web developer having over 2 years of experience. ❣️🌎
+
+I always enthusiastic for learning new technologies and making a website more user-friendly. 🧲
+
+I have sound knowledge in following technologies: 
+
+✓ React JS 🌻/ Angular JS/ Vue JS / GraphQL / JQuery / Native Javascript 
+
+✓ Node JS / Express JS 🌄
+
+✓ MySQL / MongoDB / PostgreSQL / Firbase DB 🌄
+
+✓ HTML5 / CSS3 / Bootstrap / Responsive Web Design / PSD to Responsive HTML🌄
+
+ ✓ APIs (Facebook/ Twitter/ Google/ Stripe/ Payment Gateways / Mailchimp / Stripe Connect etc.)🌄
+
+ ✓ GIT, BitBucket and other project management tool 🌄
+
+Thanks for reading my profile.🏆❣️
+
+Warm Regards, 
+Jaydeep Bhayani
