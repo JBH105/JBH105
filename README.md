@@ -27,4 +27,5 @@ I have sound knowledge in following technologies:
 Thanks for reading my profile.🏆❣️
 
 Warm Regards, 
+
 Jaydeep Bhayani
