@@ -14,9 +14,9 @@ I have sound knowledge in following technologies:
 
 ✓ React JS 🌻/ Angular JS/ Vue JS / GraphQL / JQuery / Native Javascript 
 
-✓ Node JS / Express JS 🌄
+✓ Node JS / Express JS/ Python 🌄
 
-✓ MySQL / MongoDB / PostgreSQL / Firbase DB 🌄
+✓ MySQL / MongoDB / PostgreSQL / Firbase DB / Django 🌄
 
 ✓ HTML5 / CSS3 / Bootstrap / Responsive Web Design / PSD to Responsive HTML🌄
 
