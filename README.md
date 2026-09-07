@@ -6,7 +6,7 @@ welcome to you in my profile visiting.
 
 Hope you will like it😁
 
-I am a full-stack web developer having over 6+ years of experience. ❣️🌎
+I am a full-stack web developer having over 8+ years of experience. ❣️🌎
 
 I always enthusiastic for learning new technologies and making a website more user-friendly. 🧲
 
